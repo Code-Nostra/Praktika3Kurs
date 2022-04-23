@@ -20,7 +20,7 @@
 >## __К сожалению большая часть приложения была утрачена в ходе временного перехода на гитхаб преподавателя__
 ### Главное окно приложения
 
-![Project Image](https://raw.githubusercontent.com/Htomsik/Praktika3Kurs/master/ReadmyAssets/MainWindow.png)
+![Project Image](https://raw.githubusercontent.com/Code-Nostra/Praktika3Kurs/master/ReadmyAssets/MainWindow.png)
 
 #### Технологии
 
